@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+color brand_on_primary
+color brand_primary
+color ic_launcher_background
+drawable ic_launcher
+drawable ic_launcher_foreground
+drawable ic_launcher_round
+string app_name
+style Theme.NoteTodoApp
+xml backup_rules
+xml data_extraction_rules
